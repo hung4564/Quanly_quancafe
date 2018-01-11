@@ -1,0 +1,108 @@
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe.config
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\bin\Debug\BTLversion1.pdb
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csprojResolveAssemblyReference.cache
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fBIll.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fchucvu.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChuyenban.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fcustomer.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fdouong.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fFood_bill.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fHoadon.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fLogin.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fhome.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fluong.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fTable.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.Properties.Resources.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.GenerateResource.Cache
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.CoreCompileInputs.cache
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.exe
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.pdb
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fstaff.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnguyenlieu.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fbanchange.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnhacungcap.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChamcong.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fNhapHang.resources
+E:\ảnh\btl\CSDL1.2\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fPhaChe.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe.config
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.pdb
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csprojResolveAssemblyReference.cache
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fbanchange.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fBIll.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChamcong.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChucVu.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChuyenban.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fcustomer.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fdouong.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fFood_bill.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fHoadon.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fLogin.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fhome.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fluong.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnguyenlieu.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnhacungcap.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fNhapHang.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fPhaChe.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fstaff.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fTable.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.Properties.Resources.resources
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.GenerateResource.Cache
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.CoreCompileInputs.cache
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.exe
+E:\ảnh\btl\CSDLVER1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.pdb
+E:\CSDL5.1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe.config
+E:\CSDL5.1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.exe
+E:\CSDL5.1\BTLversion1\BTLversion1\bin\Debug\BTLversion1.pdb
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csprojResolveAssemblyReference.cache
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fbanchange.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fBIll.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChamcong.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChucVu.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fChuyenban.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fcustomer.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fdouong.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fFood_bill.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fHoadon.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fLogin.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fhome.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fluong.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnguyenlieu.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fnhacungcap.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fNhapHang.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fPhaChe.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fstaff.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.fTable.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.Properties.Resources.resources
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.GenerateResource.Cache
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.csproj.CoreCompileInputs.cache
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.exe
+E:\CSDL5.1\BTLversion1\BTLversion1\obj\Debug\BTLversion1.pdb
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\bin\Debug\BTLversion1.exe.config
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\bin\Debug\BTLversion1.exe
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\bin\Debug\BTLversion1.pdb
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fbanchange.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fBIll.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fChamcong.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fChucVu.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fChuyenban.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fcustomer.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fdouong.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fFood_bill.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fHoadon.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fLogin.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fhome.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fluong.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fnguyenlieu.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fnhacungcap.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fNhapHang.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fPhaChe.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fstaff.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.fTable.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.Properties.Resources.resources
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.csproj.GenerateResource.Cache
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.exe
+D:\Dropbox\Dai hoc\Mon hoc\20171\20171 - Co so du lieu\[CSDL][Nhom86][BaitapNhom]\Nhom86_BTNhom-code\BTLversion1\obj\Debug\BTLversion1.pdb
